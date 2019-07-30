@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/src/DBConnectionDemoWithDAOPattern/ConnectionDb.java</file>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/src/DBConnectionDemoWithDAOPattern/StudentDAO.java</file>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/src/DBConnectionDemoWithDAOPattern/Student.java</file>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/src/DBConnectionDemoWithDAOPattern/DbConnectionWithModel.java</file>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/db.properties</file>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/src/DBConnectionDemoWithDAOPattern/StudentDAOFileImplementation.java</file>
+            <file>file:/D:/Java%20Practice/NetBeansProjects/DbConnectionWithSQLSeparateFile/src/DBConnectionDemoWithDAOPattern/StudentDAOMySqlImplementation.java</file>
+        </group>
+    </open-files>
+</project-private>
